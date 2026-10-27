@@ -64,5 +64,20 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-SurePayroll is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.surepayroll.com/
+SurePayroll, a Paychex brand, provides online payroll and HR services for small businesses, households, and independent contractors. It offers payroll processing, tax filing, benefits administration, 401(k) plans, and compliance tools, aiming to simplify payroll management with affordable pricing and dedicated support.
+
+**Areas:** Payroll · HR · Small Business · Paychex · Cloud Services
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.surepayroll.com/)
+- [Documentation](https://www.surepayroll.com/)
+- [Pricing](https://www.surepayroll.com/pricing)
+- [Terms of service](https://www.surepayroll.com/legal/terms-of-use)
+- [Privacy policy](https://www.surepayroll.com/legal/privacy-policy)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/surepayroll/](https://apis.io/providers/surepayroll/).
